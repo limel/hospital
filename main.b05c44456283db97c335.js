@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(e,i,n){"use strict";n.r(i);n("yjly");$(".news-article__text").readmore({speed:300,maxHeight:300,moreLink:'<a href="#">Читать полностью</a>',lessLink:'<a href="#" >Скрыть</a>'})},yjly:function(e,i,n){}},[["QfWi",1]]]);
+//# sourceMappingURL=main.b05c44456283db97c335.js.map
